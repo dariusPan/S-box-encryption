@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Thu Sep 07 23:00:21 2017
+# Process ID: 5552
+# Current directory: C:/Users/Darius/Desktop/Y4S1/EE4218/lab1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6968 C:\Users\Darius\Desktop\Y4S1\EE4218\lab1\lab1.xpr
+# Log file: C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/vivado.log
+# Journal file: C:/Users/Darius/Desktop/Y4S1/EE4218/lab1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.xpr
+launch_sdk -workspace C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk -hwspec C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk/zynq_design_1_wrapper.hdf
+launch_sdk -workspace C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk -hwspec C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk/zynq_design_1_wrapper.hdf
+file copy -force C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.runs/impl_1/zynq_design_1_wrapper.sysdef C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk/zynq_design_1_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk -hwspec C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk/zynq_design_1_wrapper.hdf
+file copy -force C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.runs/impl_1/zynq_design_1_wrapper.sysdef C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk/zynq_design_1_wrapper.hdf
+
+launch_sdk -workspace C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk -hwspec C:/Users/Darius/Desktop/Y4S1/EE4218/lab1/lab1.sdk/zynq_design_1_wrapper.hdf
